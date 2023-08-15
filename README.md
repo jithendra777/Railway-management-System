@@ -9,8 +9,8 @@ About :-
 * Business logic-PHP.
 * Back End-MySQL or MariaDB database server
 * Instructions:-
-* Install xampp
-* keep all the files(better create a folder of the files) with php extension in  htdocs folder.
+*  Install xampp
+*  keep all the files(better create a folder of the files) with php extension in  htdocs folder.
 and create a database called database in the xampp my sql server and create the tables by using the below commands
 * create table customer(Fname varchar(20),Lname varchar(20),emailID varchar(25),passwords varchar(20),dateofbirth varchar(15),gender varchar(15),Occupation varchar(15),nationality varchar(15),PRIMARY KEY(emailID));
 * create table customer_ph(emailID varchar(25),Phone_number number(10),Primary key(emailID,Phone_number),Foreign key(emailID) references customer(emailID) ,constraint a check(Phone_number between 1000000000 and 9999999999));
