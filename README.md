@@ -1,11 +1,11 @@
 # Railway-management-System
-About :-
-Our project is about railway ticket booking system. Where different kinds of users will be able to book the tickets. 
-Our database will store the details of what all things the user does. 
-The UI allows the users to select the prescribed booking of the ticket and the user will be able to see the name of the train and the serial no and the timing arriving at the station. 
-If the user wants to cancel the ticket they can cancel. 
-The user will be able to see the departure and arriving timings of the trains in the stations.
-Front End - HTML, CSS and JavaScript.
+* About :-
+* Our project is about railway ticket booking system. Where different kinds of users will be able to book the tickets. 
+* Our database will store the details of what all things the user does. 
+* The UI allows the users to select the prescribed booking of the ticket and the user will be able to see the name of the train and the * serial no and the timing arriving at the station. 
+* If the user wants to cancel the ticket they can cancel. 
+* The user will be able to see the departure and arriving timings of the trains in the stations.
+* Front End - HTML, CSS and JavaScript.
 Business logic-PHP.
 Back End-MySQL or MariaDB database server
 Instructions:-
