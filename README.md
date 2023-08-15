@@ -1,6 +1,6 @@
 # Railway-management-System
-#About :-
-#Our project is about railway ticket booking system. Where different kinds of users will be able to book the tickets. 
+# About :-
+Our project is about railway ticket booking system. Where different kinds of users will be able to book the tickets. 
 #Our database will store the details of what all things the user does. 
 #The UI allows the users to select the prescribed booking of the ticket and the user will be able to see the name of the train and the serial no and the timing arriving at the station. 
 #If the user wants to cancel the ticket they can cancel. 
